@@ -94,6 +94,9 @@ const InfoSerie = ({ match }) => {
                   {data.status === 'PARA_ASSISTIR' && <Badge color='warning' >Para assistir</Badge>}
                   Gênero: {data.genre}
                 </div>
+                <div className='font-weight-light text-white' style={{ height: 150, width: 400, backgroundColor: 'rgba(0,0,0,0.5)', marginLeft: 10, marginTop: 10, fontSize: 14 }}>
+                  {form.comments}
+                </div>
               </div>
             </div>
           </div>
