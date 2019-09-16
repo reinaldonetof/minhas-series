@@ -1,5 +1,7 @@
 # Project My series
 
+![Alt text](https://github.com/reinaldonetof/minhas-series/blob/master/images/screen_series.JPG)
+
 ## Objective
 - Save which series you are watching and what description of each series
 
