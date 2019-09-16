@@ -1,21 +1,24 @@
-# Projeto Minhas Series
+# Project My series
 
-## Objetivo
-- Salvar quais as séries que você está assistindo e qual a descrição de cada série
+## Objective
+- Save which series you are watching and what description of each series
 
-## Para rodar o site:
+## How can run the site:
 
-> Npm Install
+> npm Install
 
-- Rodar o servidor do api que está localizado em:
+- Run the api server which is located at:
+
 > http://localhost:3002/
 
-- Após entrar na pasta, então: 
+- After entering the folder, then: 
+
 > cd node_modules
 > minhas-series-server
 > npm start
 
-- Em outro servidor entre na pasta, então:
+- In another command enter the folder, then:
+
 > npm start
 
 
